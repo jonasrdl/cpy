@@ -10,3 +10,7 @@ This Python script automates the process of checking for updates and installing 
 - If an update is available, the new package is installed using dpkg.
 - The downloaded package is deleted after installation or if no update is available.
 - This script allows Discord Canary users to automate the update process, ensuring they always have the latest version without manual intervention.
+
+### Future improvements
+- [ ] Add _(stable)_ and ptb versions of discord
+- [ ] Run the script in the background and periodically check for updates
